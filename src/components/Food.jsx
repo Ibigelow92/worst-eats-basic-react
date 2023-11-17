@@ -42,28 +42,28 @@ const Food = () => {
               All
             </button>
             <button
-              onClick={() => filterType('burger')}
+              onClick={() => filterType('indian')}
               className='m-1 border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white'
             >
-              Burgers
+              Indian
             </button>
             <button
-              onClick={() => filterType('pizza')}
+              onClick={() => filterType('japanese')}
               className='m-1 border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white'
             >
-              Pizza
+              Japanese
             </button>
             <button
-              onClick={() => filterType('salad')}
+              onClick={() => filterType('mexican')}
               className='m-1 border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white'
             >
-              Salads
+              Mexican
             </button>
             <button
-              onClick={() => filterType('chicken')}
+              onClick={() => filterType('fast-food')}
               className='m-1 border-orange-600 text-orange-600 hover:bg-orange-600 hover:text-white'
             >
-              Chicken
+              Fast Food
             </button>
           </div>
         </div>

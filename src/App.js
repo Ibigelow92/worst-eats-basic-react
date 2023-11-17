@@ -18,3 +18,7 @@ function App() {
 }
 
 export default App;
+// Replace burgers with Indian
+// Pizza with Japanese
+// Salads with Fast Food
+// Chicken with Mexican
