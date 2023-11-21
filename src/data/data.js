@@ -5,7 +5,7 @@ export const data = [
     category: "indian",
     image:
       "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    price: "$$$$",
+    price: "$$",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const data = [
     category: "indian",
     image:
       "https://images.pexels.com/photos/2679501/pexels-photo-2679501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    price: "$",
+    price: "$$$$",
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ export const data = [
     category: "japanese",
     image:
       "https://images.pexels.com/photos/6249501/pexels-photo-6249501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    price: "$$",
+    price: "$$$",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const data = [
     category: "japanese",
     image:
       "https://images.pexels.com/photos/13869853/pexels-photo-13869853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    price: "$$$",
+    price: "$$",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const data = [
     category: "japanese",
     image:
       "https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    price: "$$$$",
+    price: "$",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const data = [
     category: "japanese",
     image:
       "https://images.pexels.com/photos/17952228/pexels-photo-17952228/free-photo-of-beef-ramen-with-udon-noodles-eaten-with-chopsticks.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    price: "$",
+    price: "$$$$",
   },
   {
     id: 9,
@@ -69,14 +69,14 @@ export const data = [
     category: "mexican",
     image:
       "https://images.pexels.com/photos/2087748/pexels-photo-2087748.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    price: "$$",
+    price: "$",
   },
   {
     id: 10,
     name: "Chicken Burrito",
     category: "mexican",
     image: "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
-    price: "$$$",
+    price: "$$",
   },
   {
     id: 11,
@@ -84,7 +84,7 @@ export const data = [
     category: "mexican",
     image:
       "https://images.pexels.com/photos/14473870/pexels-photo-14473870.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    price: "$$$$",
+    price: "$$",
   },
   {
     id: 12,
